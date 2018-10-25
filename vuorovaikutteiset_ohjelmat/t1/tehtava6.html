@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Tehtävä 6</title>
+</head>
+<body>
+<script>
+    'use strict';
+    let naula, leiviska, luoti;
+
+    const naulax = prompt('Monta naulaa?');
+    const luotix = prompt('Monta luotia?');
+    const leiviskax = prompt('Montako leiviskää?');
+
+//    leiviskax = leiviskojen määrä, leiviska =yhden leiviskan paino
+
+    luoti = 0.0133;
+    naula = 32*luoti ;
+    leiviska = 20*naula;
+
+    const summa = leiviska*luotix + naulax*naula + leiviskax*leiviska;
+
+
+    document.write('Massa nykymittojen mukaan: ' + summa + 'kg' );
+
+
+</script>
+</body>
+</html>
