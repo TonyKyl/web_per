@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/vuorovaikutteiset_ohjelmat/t1/tehtava6.html" line="20" mnemonic="8" />
+    <bookmark url="file://$PROJECT_DIR$/vuorovaikutteiset_ohjelmat/tehtavat/tehtava6.html" line="20" mnemonic="8" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="33c38b35-3656-4ca9-afbb-7d497c49f437" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/vuorovaikutteiset_ohjelmat/t1/tehtava6.html" afterPath="$PROJECT_DIR$/vuorovaikutteiset_ohjelmat/t1/tehtava6.html" />
+      <change beforePath="$PROJECT_DIR$/vuorovaikutteiset_ohjelmat/t1/tehtava 5.html" afterPath="$PROJECT_DIR$/vuorovaikutteiset_ohjelmat/tehtavat/tehtava5.html" />
+      <change beforePath="$PROJECT_DIR$/vuorovaikutteiset_ohjelmat/t1/tehtava1.html" afterPath="$PROJECT_DIR$/vuorovaikutteiset_ohjelmat/tehtavat/tehtava1.html" />
+      <change beforePath="$PROJECT_DIR$/vuorovaikutteiset_ohjelmat/t1/tehtava2.html" afterPath="$PROJECT_DIR$/vuorovaikutteiset_ohjelmat/tehtavat/tehtava2.html" />
+      <change beforePath="$PROJECT_DIR$/vuorovaikutteiset_ohjelmat/t1/tehtava3.html" afterPath="$PROJECT_DIR$/vuorovaikutteiset_ohjelmat/tehtavat/tehtava3.html" />
+      <change beforePath="$PROJECT_DIR$/vuorovaikutteiset_ohjelmat/t1/tehtava4.html" afterPath="$PROJECT_DIR$/vuorovaikutteiset_ohjelmat/tehtavat/tehtava4.html" />
+      <change beforePath="$PROJECT_DIR$/vuorovaikutteiset_ohjelmat/t1/tehtava6.html" afterPath="$PROJECT_DIR$/vuorovaikutteiset_ohjelmat/tehtavat/tehtava6.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,7 +22,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="tehtava3.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vuorovaikutteiset_ohjelmat/t1/tehtava3.html">
+        <entry file="file://$PROJECT_DIR$/vuorovaikutteiset_ohjelmat/tehtavat/tehtava3.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
               <caret line="8" column="10" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="13" selection-end-column="83" />
@@ -28,7 +32,7 @@
         </entry>
       </file>
       <file leaf-file-name="tehtava4.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vuorovaikutteiset_ohjelmat/t1/tehtava4.html">
+        <entry file="file://$PROJECT_DIR$/vuorovaikutteiset_ohjelmat/tehtavat/tehtava4.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
               <caret line="15" column="74" lean-forward="false" selection-start-line="15" selection-start-column="52" selection-end-line="15" selection-end-column="74" />
@@ -37,18 +41,18 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tehtava 5.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vuorovaikutteiset_ohjelmat/t1/tehtava 5.html">
+      <file leaf-file-name="tehtava5.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vuorovaikutteiset_ohjelmat/tehtavat/tehtava5.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="465">
-              <caret line="31" column="7" lean-forward="true" selection-start-line="31" selection-start-column="7" selection-end-line="31" selection-end-column="7" />
+              <caret line="31" column="7" lean-forward="false" selection-start-line="31" selection-start-column="7" selection-end-line="31" selection-end-column="7" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="tehtava6.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/vuorovaikutteiset_ohjelmat/t1/tehtava6.html">
+        <entry file="file://$PROJECT_DIR$/vuorovaikutteiset_ohjelmat/tehtavat/tehtava6.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="480">
               <caret line="32" column="7" lean-forward="true" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="7" />
@@ -158,7 +162,7 @@
               <item name="web_per" type="b2602c69:ProjectViewProjectNode" />
               <item name="web_per" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="vuorovaikutteiset_ohjelmat" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="t1" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="tehtavat" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -209,7 +213,7 @@
       <updated>1540452545448</updated>
       <workItem from="1540452546593" duration="159000" />
       <workItem from="1540452721085" duration="4772000" />
-      <workItem from="1540459064927" duration="4442000" />
+      <workItem from="1540459064927" duration="4518000" />
     </task>
     <task id="LOCAL-00001" summary="Commit eka">
       <created>1540453145128</created>
@@ -257,14 +261,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9373000" />
+    <option name="totallyTimeSpent" value="9449000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1456" y="32" width="1049" height="1064" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24976167" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24976167" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -301,7 +304,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/vuorovaikutteiset_ohjelmat/t1/tehtava3.html">
+    <entry file="file://$PROJECT_DIR$/vuorovaikutteiset_ohjelmat/tehtavat/tehtava3.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="7" />
@@ -309,7 +312,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vuorovaikutteiset_ohjelmat/t1/tehtava4.html">
+    <entry file="file://$PROJECT_DIR$/vuorovaikutteiset_ohjelmat/tehtavat/tehtava4.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" column="74" lean-forward="false" selection-start-line="15" selection-start-column="52" selection-end-line="15" selection-end-column="74" />
@@ -317,7 +320,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vuorovaikutteiset_ohjelmat/t1/tehtava 5.html">
+    <entry file="file://$PROJECT_DIR$/vuorovaikutteiset_ohjelmat/tehtavat/tehtava5.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="24" column="47" lean-forward="true" selection-start-line="24" selection-start-column="47" selection-end-line="24" selection-end-column="47" />
@@ -325,7 +328,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vuorovaikutteiset_ohjelmat/t1/tehtava1.html">
+    <entry file="file://$PROJECT_DIR$/vuorovaikutteiset_ohjelmat/tehtavat/tehtava1.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -333,7 +336,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/vuorovaikutteiset_ohjelmat/t1/.idea/tehtava1.html" />
-    <entry file="file://$PROJECT_DIR$/vuorovaikutteiset_ohjelmat/t1/tehtava1.html">
+    <entry file="file://$PROJECT_DIR$/vuorovaikutteiset_ohjelmat/tehtavat/tehtava1.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
@@ -347,14 +350,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vuorovaikutteiset_ohjelmat/t1/tehtava2.html">
+    <entry file="file://$PROJECT_DIR$/vuorovaikutteiset_ohjelmat/tehtavat/tehtava2.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="14" selection-end-column="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vuorovaikutteiset_ohjelmat/t1/tehtava4.html">
+    <entry file="file://$PROJECT_DIR$/vuorovaikutteiset_ohjelmat/tehtavat/tehtava4.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" column="74" lean-forward="false" selection-start-line="15" selection-start-column="52" selection-end-line="15" selection-end-column="74" />
@@ -370,15 +373,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vuorovaikutteiset_ohjelmat/t1/tehtava 5.html">
+    <entry file="file://$PROJECT_DIR$/vuorovaikutteiset_ohjelmat/tehtavat/tehtava5.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
-          <caret line="31" column="7" lean-forward="true" selection-start-line="31" selection-start-column="7" selection-end-line="31" selection-end-column="7" />
+          <caret line="31" column="7" lean-forward="false" selection-start-line="31" selection-start-column="7" selection-end-line="31" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vuorovaikutteiset_ohjelmat/t1/tehtava3.html">
+    <entry file="file://$PROJECT_DIR$/vuorovaikutteiset_ohjelmat/tehtavat/tehtava3.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="10" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="13" selection-end-column="83" />
@@ -394,7 +397,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vuorovaikutteiset_ohjelmat/t1/tehtava6.html">
+    <entry file="file://$PROJECT_DIR$/vuorovaikutteiset_ohjelmat/tehtavat/tehtava6.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
           <caret line="32" column="7" lean-forward="true" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="7" />
