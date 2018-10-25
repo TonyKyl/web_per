@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+  'use strict';
+
+  let hemoglob = prompt('Kerro hemoglobiiniarvosi: ');
+  let sukupuoli = prompt('Kerro sukupuolesi: ');
+
+
+  if (sukupuoli == 'mies' && hemoglob < 134) {
+
+    alert('Hemoglobiinisi on liian alhainen.');
+
+  }
+
+  if (sukupuoli == 'mies' && hemoglob > 195) {
+
+    alert('Hemoglobiinisi on liian korkea.');
+
+  } else {
+
+    alert('Hemoglobiinisi on normaali.');
+
+  }
+
+  if (sukupuoli == 'nainen' && hemoglob < 117){
+
+    alert('Hemoglobiinisi on liian alhainen.');
+
+  }
+
+  if (sukupuoli == 'nainen' && hemoglob > 175){
+
+    alert('Hemoglobiinisi on liian korkea.');
+
+  } else {
+
+    alert('Hemoglobiinisi on normaali.');
+
+  }
+
+</script>
+</body>
+</html>
