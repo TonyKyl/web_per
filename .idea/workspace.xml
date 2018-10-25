@@ -172,7 +172,7 @@
       <updated>1540452545448</updated>
       <workItem from="1540452546593" duration="159000" />
       <workItem from="1540452721085" duration="4772000" />
-      <workItem from="1540459064927" duration="182000" />
+      <workItem from="1540459064927" duration="184000" />
     </task>
     <task id="LOCAL-00001" summary="Commit eka">
       <created>1540453145128</created>
@@ -202,11 +202,18 @@
       <option name="project" value="LOCAL" />
       <updated>1540459223890</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="tehtävia">
+      <created>1540459249037</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1540459249037</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5113000" />
+    <option name="totallyTimeSpent" value="5115000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1456" y="32" width="1049" height="1064" extended-state="0" />
