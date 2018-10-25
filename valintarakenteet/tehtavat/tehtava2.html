@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+  'use strict';
+  let nimi;
+
+  nimi = prompt('Anna nimesi, niin valitaan tupa sinulle.');
+  let numero = Math.floor((Math.random() * 4) + 1);
+
+  if (numero == 1) {
+    alert(nimi + ', sinut on valittu Rohkelikkoon!');
+  }
+  if (numero == 2) {
+    alert(nimi + ', sinut on valittu Korpikynteen!')
+  }
+  if (numero == 3) {
+    alert(nimi + ', sinut on valittu Luihuiseen!');
+  }
+  if (numero == 4) {
+    alert(nimi + ', sinut on valittu Puuskupuhiin!');
+  }
+</script>
+</body>
+</html>
