@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/vuorovaikutteiset_ohjelmat/t1/tehtava6.html" line="22" mnemonic="8" />
+    <bookmark url="file://$PROJECT_DIR$/vuorovaikutteiset_ohjelmat/t1/tehtava6.html" line="20" mnemonic="8" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="33c38b35-3656-4ca9-afbb-7d497c49f437" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/valintarakenteet/tehtavat/tehtava1.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vuorovaikutteiset_ohjelmat/t1/tehtava6.html" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/vuorovaikutteiset_ohjelmat/t1/tehtava6.html" afterPath="$PROJECT_DIR$/vuorovaikutteiset_ohjelmat/t1/tehtava6.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -48,17 +47,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tehtava6.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="tehtava6.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/vuorovaikutteiset_ohjelmat/t1/tehtava6.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="7" lean-forward="true" selection-start-line="28" selection-start-column="7" selection-end-line="28" selection-end-column="7" />
+            <state relative-caret-position="480">
+              <caret line="32" column="7" lean-forward="true" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="7" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tehtava1.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="tehtava1.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/valintarakenteet/tehtavat/tehtava1.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="345">
@@ -90,8 +89,8 @@
         <option value="$PROJECT_DIR$/vuorovaikutteiset_ohjelmat/t1/tehtava4.html" />
         <option value="$PROJECT_DIR$/vuorovaikutteiset_ohjelmat/t1/tehtava_5.html" />
         <option value="$PROJECT_DIR$/vuorovaikutteiset_ohjelmat/t1/tehtava 5.html" />
-        <option value="$PROJECT_DIR$/vuorovaikutteiset_ohjelmat/t1/tehtava6.html" />
         <option value="$PROJECT_DIR$/valintarakenteet/tehtavat/tehtava1.html" />
+        <option value="$PROJECT_DIR$/vuorovaikutteiset_ohjelmat/t1/tehtava6.html" />
       </list>
     </option>
   </component>
@@ -210,7 +209,7 @@
       <updated>1540452545448</updated>
       <workItem from="1540452546593" duration="159000" />
       <workItem from="1540452721085" duration="4772000" />
-      <workItem from="1540459064927" duration="3918000" />
+      <workItem from="1540459064927" duration="4442000" />
     </task>
     <task id="LOCAL-00001" summary="Commit eka">
       <created>1540453145128</created>
@@ -247,14 +246,22 @@
       <option name="project" value="LOCAL" />
       <updated>1540459249037</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary=" LISÄÄ">
+      <created>1540463097270</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1540463097270</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8849000" />
+    <option name="totallyTimeSpent" value="9373000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1456" y="32" width="1049" height="1064" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24976167" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -286,7 +293,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit eka" />
     <MESSAGE value="tehtävia" />
-    <option name="LAST_COMMIT_MESSAGE" value="tehtävia" />
+    <MESSAGE value=" LISÄÄ" />
+    <option name="LAST_COMMIT_MESSAGE" value=" LISÄÄ" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -370,14 +378,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vuorovaikutteiset_ohjelmat/t1/tehtava6.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="7" lean-forward="true" selection-start-line="28" selection-start-column="7" selection-end-line="28" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vuorovaikutteiset_ohjelmat/t1/tehtava3.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -390,6 +390,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="23" column="7" lean-forward="true" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vuorovaikutteiset_ohjelmat/t1/tehtava6.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="7" lean-forward="true" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="7" />
           <folding />
         </state>
       </provider>

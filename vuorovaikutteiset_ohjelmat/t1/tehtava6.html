@@ -7,7 +7,7 @@
 <body>
 <script>
     'use strict';
-    let naula, leiviska, luoti;
+    let naula, leiviska, luoti, nykyMitta, kilot , grammat;
 
     const naulax = prompt('Monta naulaa?');
     const luotix = prompt('Monta luotia?');
@@ -15,14 +15,17 @@
 
 //    leiviskax = leiviskojen määrä, leiviska =yhden leiviskan paino
 
-    luoti = 0.0133;
+    luoti = 13.3;
     naula = 32*luoti ;
     leiviska = 20*naula;
 
-    const summa = leiviska*luotix + naulax*naula + leiviskax*leiviska;
+    nykyMitta = +luoti * +luotix + +naula * +naulax + +leiviska * +leiviskax;
 
+    kilot = (Math.floor(+nykyMitta / 1000));
+    grammat = +nykyMitta - +kilot * 1000;
 
-    document.write('Massa nykymittojen mukaan: ' + summa + 'kg' );
+    document.write("Massa nykymittojen mukaan: " + kilot + "KG ja " + grammat.toFixed() + "g");
+
 
 
 </script>
