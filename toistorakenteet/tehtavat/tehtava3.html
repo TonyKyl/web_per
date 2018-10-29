@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    'use strict';
+
+
+    let Lvuosi, Avuosi, i;
+       Avuosi = prompt('Anna aloitusvuosi.');
+       Lvuosi = prompt('Anna lopetusvuosi.');
+
+       document.write('<ul>');
+for (i = Avuosi; i <= Lvuosi; i++) {
+  if ((i % 4 == 0 ) && (i % 100 !== 0) || (i % 400 == 0)) {
+    document.write('<li>' + i + '</li>');
+
+  }
+}
+
+document.write('</ul>');
+
+
+</script>
+
+</body>
+</html>
