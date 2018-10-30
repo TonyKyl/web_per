@@ -6,19 +6,21 @@
 </head>
 <body>
 <script>
-    'use strict';
-        let maara;
-        let nimet = [];
+  'use strict';
+  let maara;
+  let nimet = [];
 
-        maara = prompt('Anna osallistujien määrä.');
+  maara = prompt('Anna osallistujien määrä.');
 
-        document.write('<ul>');
+  document.write('<ul>');
 
-        for ( i = 0; i<maara; i++ ) {
-          nimet [i] = prompt('Anna osallistujien nimet');
-        }
-        document.write('</ul>');
-
+  for (let i = 0; i<maara; i++ ) {
+    nimet[i] = prompt('Anna osallistujien nimet');
+  }
+  for (let i = 0; i<maara; i++ ) {
+    document.write('<li>'+ nimet[i] +'</li>');
+  }
+  document.write('</ul>');
 </script>
 
 </body>

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    'use strict';
+    const maara = 6;
+    let i;
+    let nimet = [];
+
+    document.write('<ul>');
+
+    for ( i = 0; i<maara; i++) {
+      nimet[i] = prompt('Anna koirien nimet.');
+    }
+    let uusnimi = nimet.sort();
+
+    for ( i = maara-1; i>0; i--){
+      document.write('<li>' + uusnimi[i] + '</li>');
+    }
+
+    document.write('</ul>');
+</script>
+</body>
+</html>
