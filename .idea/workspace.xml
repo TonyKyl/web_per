@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="33c38b35-3656-4ca9-afbb-7d497c49f437" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/funktiot/tehtavat/tehtava1.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/funktiot/tehtavat/tehtava2.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/funktiot/tehtavat/tehtava3.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/funktiot/tehtavat/tehtava4.html" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/BOM_DOM/tehtavat/tehtava1.html" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -52,11 +49,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tehtava3.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="tehtava3.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/funktiot/tehtavat/tehtava3.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
               <caret line="12" column="24" lean-forward="true" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tehtava4.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/funktiot/tehtavat/tehtava4.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" column="17" lean-forward="false" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -106,6 +113,7 @@
         <option value="$PROJECT_DIR$/funktiot/tehtavat/tehtava3.html" />
         <option value="$PROJECT_DIR$/funktiot/tehtavat/tehtava1.html" />
         <option value="$PROJECT_DIR$/funktiot/tehtavat/tehtava2.html" />
+        <option value="$PROJECT_DIR$/funktiot/tehtavat/tehtava4.html" />
       </list>
     </option>
   </component>
@@ -222,7 +230,7 @@
       <workItem from="1540800259433" duration="5818000" />
       <workItem from="1540884017000" duration="1188000" />
       <workItem from="1540899363134" duration="3662000" />
-      <workItem from="1541492787876" duration="1074000" />
+      <workItem from="1541492787876" duration="1568000" />
     </task>
     <task id="LOCAL-00001" summary="Commit eka">
       <created>1540453145128</created>
@@ -270,7 +278,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29445000" />
+    <option name="totallyTimeSpent" value="29939000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1456" y="32" width="1049" height="1064" extended-state="0" />
@@ -314,14 +322,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/vuorovaikutteiset_ohjelmat/tehtavat/tehtava6.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="7" lean-forward="true" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vuorovaikutteiset_ohjelmat/tehtavat/tehtava7.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -660,6 +660,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="24" lean-forward="true" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/funktiot/tehtavat/tehtava4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="17" lean-forward="false" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
           <folding />
         </state>
       </provider>
