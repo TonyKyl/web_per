@@ -1,0 +1,6 @@
+p{
+    display: none;
+}
+p:hover{
+    display:block;
+}
