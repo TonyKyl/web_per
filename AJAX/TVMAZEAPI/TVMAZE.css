@@ -1,0 +1,22 @@
+html{
+    font-family: "Comic Sans MS";
+    background-color: bisque;
+}
+
+h1{
+    text-align: center;
+}
+
+#haku{
+    text-align: center;
+}
+
+#hakutulos{
+    margin-top: 100px;
+    text-align: center;
+}
+
+.h7{
+    margin-bottom: 100px;
+}
+
